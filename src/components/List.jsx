@@ -10,7 +10,7 @@ function List() {
   };
 
   useEffect(() => {
-    if (list.length === 10) {
+    if (list.length === 100) {
       setChangecolor(true);
       return;
     }
