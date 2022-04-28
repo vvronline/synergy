@@ -1,0 +1,23 @@
+
+.container{
+    margin-left: 47%;
+  align-items: center;
+    font-size: 40px;
+  
+   
+}
+h1{
+    color: red;
+    text-align: center;
+}
+.two{
+    color: blue;
+  
+
+}
+.three{
+    color: green;
+}
+.six{
+    color: orange;
+}
